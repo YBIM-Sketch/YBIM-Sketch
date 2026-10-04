@@ -10,7 +10,7 @@ Tôi là **Hoàng Y**, phát triển các giải pháp phần mềm tự động
 
 ## 🛠 Công nghệ & Công cụ 
 - **Ngôn ngữ & Framework:** Python, PySide6 (UI Desktop).
-- **Môi trường:** Agent Antigravity tự động hóa quy trình.
+
 
 ## 📫 Liên hệ
 - **Email:** hoangy.dgbo.k52@gmail.com
