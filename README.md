@@ -14,5 +14,5 @@ Tôi là **Hoàng Y**, phát triển các giải pháp phần mềm tự động
 
 ## 📫 Liên hệ
 - **Email:** hoangy.dgbo.k52@gmail.com
-- **Điện thoại:** 0917433147
+- **Điện thoại/Zalo:** 0917433147
 - **YouTube:** [@Nguyen_Hoang_Y](https://www.youtube.com/@Nguyen_Hoang_Y)
